@@ -1,0 +1,12 @@
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# Saída do PyInstaller (o .exe vai para a aba Releases do GitHub)
+build/
+dist/
+*.spec
+
+# Configurações pessoais de cada usuário
+camzoom_settings.json
